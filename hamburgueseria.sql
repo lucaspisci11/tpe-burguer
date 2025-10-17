@@ -62,9 +62,9 @@ CREATE TABLE `producto` (
 --
 
 INSERT INTO `producto` (`id_producto`, `nombre`, `descripcion`, `precio`, `URL_imagen`, `id_categoria`) VALUES
-(32, 'Rhos Burger', 'Hamburguesa doble carne, con cheddar panceta y cebolla caramelizada. Incluye papas', 6000, 'https://bigpons.com.ar/productos/20220621103718.jpeg', 1),
+(32, 'Rhos Burger', 'Hamburguesa doble carne, con cheddar panceta y cebolla caramelizada. Incluye papas', 6000, 'https://www.carniceriademadrid.es/wp-content/uploads/2022/09/smash-burger-que-es.jpg', 1),
 (33, 'Lake Burger', 'Hamburguesa doble carne, con queso dambo, y jamon cocido. Incluye papas', 6000, 'https://viejodave.com.ar/wp-content/uploads/2024/02/hamburguesa-jamon-y-queso-carne-01.jpg', 1),
-(34, 'Cheese Burger', 'Hamburguesa doble carne, con queso cheddar x4 fetas. Incluye papas', 6000, 'https://bigpons.com.ar/productos/20220621103022.jpeg', 1),
+(34, 'Cheese Burger', 'Hamburguesa doble carne, con queso cheddar x4 fetas. Incluye papas', 6000, 'https://www.clarin.com/2022/05/27/0HXb0UR0v_2000x1500__1.jpg', 1),
 (35, 'Bealton Burger', 'Hamburguesa doble carne, con cheddar, panceta, cebolla morada y salsa nt. Incluye papas', 6000, 'https://www.cucinare.tv/wp-content/uploads/2022/05/Dia-de-la-H.jpg', 1),
 (36, 'Boston Burger', 'Hamburguesa doble carne, con cheddar, panceta, cebolla crispy y salsa de mostaza y miel. Incluye papas', 6000, 'https://pbs.twimg.com/media/Fk227IWXkAE3HHw.png', 1),
 (37, 'Rockford Burger', 'Hamburguesa doble carne, con queso dambo, queso roquefort, y cebolla caramelizada. Incluye papas', 6000, 'https://viejodave.com.ar/wp-content/uploads/2024/02/hamburguesa-queso-panceta-roquefort-cebolla-caramelizada-y-huevo-carne-01.jpg', 1),
