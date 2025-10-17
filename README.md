@@ -22,6 +22,6 @@ Integrantes:
 •	Lucas Piscicelli.
 
 •	Marco Ciano.
->>>>>>> a762945 (segunda parte tpe)
+
 
 
