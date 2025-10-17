@@ -1,24 +1,27 @@
-# tpe-burguer
 
+<<<<<<< HEAD
+# Hamburgueseria
 
-integrantes:
-Marco Ciano 
-marcociano7@gmail.com
+Pagina donde se pueden explorar los productos de un restaurant de hamburguesas usando renderizacion del lado del servidor con PHP y MySQL.
 
-lucas piscicelli
-lucaspiscicelli051@gmail.com
+Para desplegar el sitio en cualquier dispositivo lo que hay que hacer es, iniciar apache y mysql en xammp, luego ir al explorador de archivos y luego a Disco Local C:/xampp/htdocs.
+Una vez aqui dentro abrimos la consola de git y clonamos el repositorio en dicha carpeta.
+Luego abrimos el navegador y en la url escribimos localhost/'nombre de la carpeta'/
 
+=======
 
+Dejamos los datos para el acceso como admin:
 
-tematica: tienda de hamburguesa.
+user: `webadmin`
+pass: `admin`
 
+=======
 
+Integrantes:
 
-descripcion: tienda de hamburguesa que diferencia productos segun su categoria.
+•	Lucas Piscicelli.
 
-
-diagrama:
-
-![Imagen de WhatsApp 2025-09-30 a las 09 57 51_b030bbd7](https://github.com/user-attachments/assets/e27b77a9-75e3-45af-94fb-4adb51df1694)
+•	Marco Ciano.
+>>>>>>> a762945 (segunda parte tpe)
 
 
